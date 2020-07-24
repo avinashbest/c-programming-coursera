@@ -3,7 +3,7 @@
 
 int main()
 {
-    float a, b, sum;
+    float a, b, sum; //Variables of Data type float
     printf("Input two floats: ");
     scanf("%f%f", &a, &b);
     printf("a = %f, b = %f\n", a, b);
