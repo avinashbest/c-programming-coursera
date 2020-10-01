@@ -8,12 +8,11 @@ int main()
     scanf("%d", &speed);
     if (speed < 65)
     {
-        printf("\nNo speeding Ticket\n\n");
+        printf("\nNo Speeding Ticket\n\n");
     }
     else
     {
         printf("\nSpeeding Ticket\n\n");
     }
-
     return 0;
 }
