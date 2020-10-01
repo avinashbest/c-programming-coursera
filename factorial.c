@@ -29,6 +29,12 @@ int main(void)
     int how_many = 0;
     printf("I want table of factorial up to n: ");
     scanf("%d", &how_many);
+    if(how_many == 0)
+    {
+        printf("\nIterative Factorials = 1\n");
+        printf("\nIterative Factorials = 1\n");
+        return 0;
+    }
 
     printf("\nIterative Factorials:\n");
 
