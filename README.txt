@@ -1,7 +1,9 @@
 *********************************Coursera Notes C Programming Fundamentals:*******************************
 __________________________________________________________________________________________________________
 
-#PROGRAM:	1. hello.c
+# PROGRAM:	
+
+			1. hello.c
 			2. sum.c
 			3. avg_float_no.c
 			i. new_program.c
@@ -13,7 +15,7 @@ ________________________________________________________________________________
 
 # Multiply(*) has higher precedence than binary(+) and binary(-) but the unary(-) and unary(+) higher still.
 
-#PROGRAM:	9. expression_evaluation.c
+# PROGRAM:	9. expression_evaluation.c
 			10. temp_conversion.c
 			11. logical_operator.c
 			12. while_loop.c
@@ -29,7 +31,9 @@ ________________________________________________________________________________
 					||			 ||				 ||
 					if			true			false
 
-#PROGRAM:	17. switch_case.c
+# PROGRAM:	
+
+			17. switch_case.c
 			18. time_func.c
 			19.	character_reader.c
 
@@ -79,7 +83,9 @@ ________________________________________________________________________________
 
 	If no return- as if return; was last statement of ten code block.
 
-#PROGRAM:	20. function.c
+# PROGRAM:	
+
+			20. function.c
 			21. storage_class.c
 
 
@@ -90,7 +96,9 @@ ________________________________________________________________________________
 # Recursive fibonacci shows one pitfall in using it versus an iterative calculation:
 	Fibonacci has an exponential number of calls that can lots of stack space and extra time.
 
-#PROGRAM:	22. factorial.c
+# PROGRAM:	
+
+			22. factorial.c
 			23. fibonacci.c
 
 # Array: Collection of similar data_types.
@@ -108,7 +116,9 @@ ________________________________________________________________________________
 	char str[] = "a b c"; 		//This has 6 elements.
 	'\0' -> Sentiel or Null character.
 
-#PROGRAM:	24. simple_array.c
+# PROGRAM:	
+
+	24. simple_array.c
 
 # Pointers in C language is a variable that stores/points the address of another variable.
 
