@@ -4,6 +4,7 @@ ________________________________________________________________________________
 #PROGRAM:	1. hello.c
 			2. sum.c
 			3. avg_float_no.c
+			i. new_program.c
 			4. circle_area.c
 			5. distance_km.c
 			6. ASCII_code.c
@@ -75,7 +76,6 @@ ________________________________________________________________________________
 
 	Return statement when executed exits to where function was called.
 
-	If return expression Then value of return converted to type of function is used in calling environment.
 
 	If no return- as if return; was last statement of ten code block.
 
@@ -152,7 +152,7 @@ ________________________________________________________________________________
 	-You normally That you also pass in the size of the array
 	-Unlike many programming languages an array name in C is just a pointer to a base address and there is no way to know its size.
 
-#PROGRAM:	26. array_as_pointer.c
+#PROGRAM:	26. array-as-pointer.c
 
 
 # "Perhaps the most obvious way to sort by exchanges is to compare two keys, interchanging R1 and R2, if 	the keys are out of order and then keep doing this. Repeating it until in effect you have the 			information sorted." 
