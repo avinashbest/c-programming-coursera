@@ -183,7 +183,7 @@ Repeating it until in effect you have the information sorted."
 
 # bubblesort is O(n*n)  and mergesort is O(n log(n)).
 
-#PROGRAM:
+# PROGRAM:
 
 		27. bubble_sort.c
 		28. merge_sort.c
