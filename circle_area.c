@@ -8,7 +8,7 @@ int main()
     printf("Enter radius:");
     scanf("%lf", &radius);
     area = PI * radius * radius; //Classic formula
-    printf("Radius of %lf meters; area is %lf sq. meters\n", radius, area);
+    printf("Radius is %lf meters and area is %lf sq. meters\n", radius, area);
 
     return 0;
 }
